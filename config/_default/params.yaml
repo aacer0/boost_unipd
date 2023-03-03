@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: unipd
+  theme_night: unipd
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} BOOST. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
