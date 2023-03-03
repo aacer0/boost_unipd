@@ -20,6 +20,7 @@ sections:
 
         This is the core business of **BOOST**.
         Our main applications are in **High Energy Physics** and **Data-Driven Medicine**.</div>
+        <div style="text-align:right; font-size:xx-small">Image Credit: D. Dominguez/CERN</div>
         
 #    design:
 #      background:
@@ -79,7 +80,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
 #  - block: collection
@@ -118,7 +119,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: portfolio
     id: teaching
     content:
       title: Teaching
@@ -127,8 +128,8 @@ sections:
           - teaching
     design:
       columns: '2'
-      view: compact   
-  - block: collection
+      view: masonry   
+  - block: portfolio
     id: thesis
     content:
       title: Thesis
