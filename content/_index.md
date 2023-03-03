@@ -138,7 +138,7 @@ sections:
           - thesis
     design:
       columns: '2'
-      view: compact      
+      view: masonry      
   - block: contact
     id: contact
     content:
