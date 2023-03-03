@@ -151,30 +151,9 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Via Francesco Marzolo, 8, 35121 Padova PD <br>
+        street: Via Francesco Marzolo 8
+        postcode: 35121 Padova PD
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d700.2514157756318!2d11.885703661760342!3d45.40922537733434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda585918ab75%3A0x76d6424a9b793480!2sUniversit%C3%A0%20Degli%20Studi%20di%20Padova%20-%20Dipartimento%20di%20Fisica%20e%20Astronomia%20G.%20Galilei!5e0!3m2!1sit!2sit!4v1661268231623!5m2!1sit!2sit" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        #city: Padova
-        #region: CA
-        #postcode: '35121'
-        #country: Italy
-        #country_code: IT
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      #office_hours:
-      #  - 'Monday 10:00 to 13:00'
-      #  - 'Wednesday 09:00 to 10:00'
-      #contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-      #    name: DM Me
-      #    link: 'https://twitter.com/Twitter'
-      #  - icon: skype
-      #    icon_pack: fab
-      #    name: Skype Me
-      #    link: 'skype:echo123?call'
-      #  - icon: video
-      #    icon_pack: fas
-      #    name: Zoom Me
-      #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
