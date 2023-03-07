@@ -73,6 +73,8 @@ sections:
           tag: '*'
         - name: Faculty Members
           tag: Faculty Members
+        - name: Ph.D. Students
+          tag: PhD 
         - name: Other
           tag: Demo
       sort_by: 'Date'
