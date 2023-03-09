@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    id: about
     content:
       title: BOOST Lab
       image:
