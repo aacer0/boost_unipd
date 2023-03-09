@@ -132,7 +132,7 @@ sections:
     design:
       columns: '2'
       view: masonry   
-  - block: portfolio
+  - block: collection
     id: thesis
     content:
       title: Thesis
@@ -141,7 +141,7 @@ sections:
           - thesis
     design:
       columns: '2'
-      view: masonry      
+      view: list  
   - block: contact
     id: contact
     content:
