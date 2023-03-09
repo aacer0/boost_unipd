@@ -25,10 +25,12 @@ publication_types: ['3']
 #publication: In *Nuclear Instruments and Method A*
 #publication_short: 
 
-abstract:
+abstract: >
+ The online reconstruction of muon tracks in High Energy Physics experiments is a highly demanding task, typically performed with programmable logic boards, such as FPGAs. Complex analytical algorithms are executed in a quasi-real-time environment to identify, select and reconstruct local tracks in often noise-rich environments. A novel approach to the generation of local triggers based on an hybrid combination of Artificial Neural Networks and analytical methods is proposed, targeting the muon reconstruction for drift tube detectors. The proposed algorithm exploits Neural Networks to solve otherwise computationally expensive analytical tasks for the unique identification of coherent signals and the removal of the geometrical ambiguities. The proposed approach is deployed on state-of-the-art FPGA and its performances are evaluated on simulation and on data collected from cosmic rays.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A neural network based algorithm implemented on firmware to
+reconstruct  muon stubs with Drift Tubes chambers"
 
 tags:
   - Trigger

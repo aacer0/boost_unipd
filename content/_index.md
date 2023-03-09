@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Boost Lab
+      title: BOOST Lab
       image:
         filename: home.jpg
       text: |-
@@ -18,7 +18,7 @@ sections:
         and at the same time those should be kept to the essential.
         This attitude requires advanced technological and statistical tools to tackle the arduous challenges posed by the management, processing and analysis of large and complex datasets.
 
-        This is the core business of **BOOST**.
+        This is the core business of **BOOST** (Boost Online Operations with advanced Statistics and Technology).
         Our main applications are in **High Energy Physics** and **Data-Driven Medicine**.</div>
         <div style="text-align:right; font-size:xx-small">Image Credit: D. Dominguez/CERN</div>
         
