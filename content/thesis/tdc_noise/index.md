@@ -1,5 +1,5 @@
 ---
-title: 'Demonstrator of an innovative acquisition system based on remote direct memory transfer'
+title: 'Noise and linearity characterization of time to digital converters for the muon detector of CMS'
 
 
 # Summary. An optional shortened abstract.
@@ -7,9 +7,10 @@ title: 'Demonstrator of an innovative acquisition system based on remote direct 
 
 tags:
   - Master
-  - DAQ
-  - FPGA
-  - Network protocol
+  - Bechelor
+  - Noise Analysis
+  - Muons
+  - CMS
 featured: false
 
 show_date: false
@@ -48,8 +49,6 @@ projects: []
 slides: ""
 ---
 
-The constant trend in producing larger and larger dataset is evident in almost every field of experimental physics. This need is heightened in experiments that, for reducing inefficiencies or for not being constrained by restricted latency budgets, decide to run without a hardware trigger system. The processing power is of paramount importance for the computing farm called to process the dataset eventually, but an inefficient data movement often weakens it. 
-
-The challenge of moving large quantity of data can be tackled employing network protocol based on the concept of remote direct memory access. This would unburden the processor from the low level management of the data movement and protocol stack stripping, but it would require a more intelligent hardware on the front end side. The activities will be focused around the implementation of a demonstrator of an innovative DAQ implemented by means of Field Programmable Gate Arrays (FPGAs). 
+The Electronics for the Drift Tube (DT) chambers of CMS will be significantly upgraded during the 3rd LHC Long Shutdown (LS3). DTs are responsible for the tracking and triggering of muons in the central region of CMS. As a consequence of the higher rate set by High Luminosity LHC, the new CMS Trigger requirements will exceed the present capabilities of the DT on-detector electronics. . For this reason DTs will replace all their electronics during LS3. It will be asked to the candidate student to qualify the time to digital converters of the new electronics in terms of linearity and input noise taking into account different grounding schemas. 
 
 Supervisor: Andrea Triossi

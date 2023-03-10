@@ -1,9 +1,9 @@
 --- 
 title: Nicolò Lai
-summary: undergraduate student
+summary: Undergraduate student
 tags:
-  - other
-date: '2016-06-03T00:00:00Z'
+  - Other
+date: '2016-07-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -22,8 +22,8 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 60
-  - name: Thesis
-    url: '#thesis'
+  - name: Theses
+    url: '#theses'
     #pre: <div style="width:0px; height:0px">
     weight: 70    
   - name: Contact
