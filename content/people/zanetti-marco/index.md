@@ -16,13 +16,16 @@ links:
   - icon: envelope
     icon_pack: fas
     url: 'mailto:marco.zanetti@unipd.it'
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/mzanetti79
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/mzanetti79
+# - icon: google-scholar
+#    icon_pack: ai
+#    url: https://scholar.google.com.sg/citations?user=tRn2z8cAAAAJ&hl=en
+#- icon: google-scholar
+#   icon_pack: ai
+#   url: https://inspirehep.net/authors/1064691?ui-citation-summary=true
   - icon: github
     icon_pack: fab
     url: https://github.com/mzanetti79
