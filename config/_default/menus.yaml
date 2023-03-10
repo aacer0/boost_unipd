@@ -24,13 +24,21 @@ main:
     weight: 60
   - name: Thesis
     url: '#thesis'
+    #pre: <div style="width:0px; height:0px">
     weight: 70    
   - name: Contact
     url: '#contact'
     weight: 80
+    #pre: <div style="width:0px; height:0px">
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
+#  - url: https://www.unipd.it
+#    weight: 100
+#    pre:  <img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="float:bottom;width:30%">
+    #pre:  <img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="width:50%">
