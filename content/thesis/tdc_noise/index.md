@@ -51,4 +51,4 @@ slides: ""
 
 The Electronics for the Drift Tube (DT) chambers of CMS will be significantly upgraded during the 3rd LHC Long Shutdown (LS3). DTs are responsible for the tracking and triggering of muons in the central region of CMS. As a consequence of the higher rate set by High Luminosity LHC, the new CMS Trigger requirements will exceed the present capabilities of the DT on-detector electronics. . For this reason DTs will replace all their electronics during LS3. It will be asked to the candidate student to qualify the time to digital converters of the new electronics in terms of linearity and input noise taking into account different grounding schemas. 
 
-Supervisor: Andrea Triossi
+Supervisor: <a href="../../people/triossi-andrea">Andrea Triossi</a>

@@ -52,4 +52,4 @@ The constant trend in producing larger and larger dataset is evident in almost e
 
 The challenge of moving large quantity of data can be tackled employing network protocol based on the concept of remote direct memory access. This would unburden the processor from the low level management of the data movement and protocol stack stripping, but it would require a more intelligent hardware on the front end side. The activities will be focused around the implementation of a demonstrator of an innovative DAQ implemented by means of Field Programmable Gate Arrays (FPGAs). 
 
-Supervisor: Andrea Triossi
+Supervisor: <a href="../../people/triossi-andrea">Andrea Triossi</a>
