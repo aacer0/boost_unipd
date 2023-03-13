@@ -25,6 +25,9 @@ links:
   - icon: github
     icon_pack: fab
     url: https://github.com/jpazzini
+  - icon: google-scholar
+    icon_pack: ai
+    url: https://scholar.google.com/citations?hl=it&user=ls7v_BUAAAAJ
 url_code: ''
 url_pdf: ''
 url_slides: ''
