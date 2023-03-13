@@ -7,29 +7,35 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+    pre: <br><br>
   - name: News
     url: '#news'
     weight: 20
+    pre: <br><br>
   - name: People
     url: '#people'
     weight: 30
+    pre: <br><br>
   - name: Publications
     url: '#publications'
     weight: 40
+    pre: <br><br>
   - name: Events
     url: '#events'
     weight: 50
+    pre: <br><br>
   - name: Teaching
     url: '#teaching'
     weight: 60
+    pre: <br><br>
   - name: Theses
     url: '#theses'
-    #pre: <div style="width:0px; height:0px">
-    weight: 70    
+    weight: 70   
+    pre: <br><br>   
   - name: Contact
     url: '#contact'
     weight: 80
-    #pre: <div style="width:0px; height:0px">
+    pre: <br><br>
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -38,7 +44,11 @@ main:
 #    url: uploads/resume.pdf
 #    weight: 70
 
-#  - url: https://www.unipd.it
-#    weight: 100
-#    pre:  <img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="float:bottom;width:30%">
-    #pre:  <img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="width:50%">
+  - name: "&nbsp"
+    url: https://www.unipd.it
+    weight: 100
+    pre:  <br><img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="padding-left:70px; width:65%">
+  - #name: "&nbsp"
+    url: https://www.dfa.unipd.it
+    weight: 150
+    pre:  <br><img src="img/logo_dfa_white.png" alt="Logo DFA" style="width:40%">
