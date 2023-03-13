@@ -47,8 +47,8 @@ main:
   - name: "&nbsp"
     url: https://www.unipd.it
     weight: 100
-    pre:  <br><img src="img/logo-UNIPD-white.png" alt="Logo Unipd" style="padding-left:70px; width:65%">
+    pre:  <br><img src="/img/logo-UNIPD-white.png" alt="Logo Unipd" style="padding-left:70px; width:65%">
   - #name: "&nbsp"
     url: https://www.dfa.unipd.it
     weight: 150
-    pre:  <br><img src="img/logo_dfa_white.png" alt="Logo DFA" style="width:40%">
+    pre:  <br><img src="/img/logo_dfa_white.png" alt="Logo DFA" style="width:40%">
