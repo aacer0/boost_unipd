@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: ResearchOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'BOOST - Department of Physics and Astronomy - Padova University'
+    description: 'Webpage of the BOOST research group - Physics and Astronomy Department - Padova University. Boost Online Operations with advanced Statistics and Technology. BOOSTing research in the fields of High Energy Physics and Data-Driven Medicine.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
