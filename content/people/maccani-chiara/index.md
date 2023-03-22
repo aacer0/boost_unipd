@@ -1,5 +1,5 @@
 --- 
-title: Pietro Cappelli
+title: Chiara Maccani
 summary: Undergraduate student
 tags:
   - Other
@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:pietro.cappelli@studenti.unipd.it '
+    url: 'mailto:chiara.maccani@studenti.unipd.it '
 #  - icon: twitter
 #    icon_pack: fab
 #    url: https://twitter.com/grossogaia
@@ -24,7 +24,7 @@ links:
   #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    url: https://github.com/PietroCappelli
+    url: https://github.com/chiaramaccani
 #  - icon: google-scholar
 #    icon_pack: ai
 #    url: https://scholar.google.com/citations?user=hSk0b3oAAAAJ&hl=it
@@ -44,9 +44,8 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Nicolò is a Physics of Data student at the University of Padova with a background in Physics. 
-His interests mainly concern the intersection of High Energy Physics and Machine Learning. 
-Since 2021, he has been actively contributing to the development of an
-innovative data quality monitoring pipeline for the CMS drift tubes
-muon chambers using advanced machine learning techniques.
-
+Chiara is a Physics of Data student at the University of Padova, where
+she is pursuing her studies in High Energy Physics and data analysis.
+For her Master thesis, she is contributing to the detector simulations
+of an experiment at LHC aiming to measure charm baryon electromagnetic
+dipole moment with a double-crystal setup
