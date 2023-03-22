@@ -3,7 +3,7 @@ title: Jacopo Pazzini
 summary: Assistant Professor
 tags:
   - Faculty Members
-date: '2020-06-15T00:00:00Z'
+date: '2016-04-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
