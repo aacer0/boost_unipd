@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:pietro.cappelli@studenti.unipd.it '
+    url: 'mailto:pietro.cappelli@studenti.unipd.it'
 #  - icon: twitter
 #    icon_pack: fab
 #    url: https://twitter.com/grossogaia
@@ -46,12 +46,12 @@ url_video: ''
 
 
 Pietro Cappelli is a Physics of Data student at the University of
-Padova with a backgroud in Phyisics. Pietro's interests are primarily
-focused on Physics of High Energy and data analysis, in particular
+Padova with a background in Physics. Pietro's interests are primarily
+focused on the Physics of High Energy and data analysis, in particular
 applied in the context of the latter Physics' field. During his period
-of study in the master degree course, he contribute to some projects
+of study in the master's degree course, he contribute to some projects
 concerning machine learning tools applied to High Energy physics. In
-the Bachelor thesis, done in Ferrara, he studied the phenomenon of
-neutrino decoupling, by computing the right hand side of the Boltzmann
+his Bachelor thesis, done in Ferrara, he studied the phenomenon of
+neutrino decoupling, by computing the right-hand side of the Boltzmann
 equation, with numerical integration.
 
