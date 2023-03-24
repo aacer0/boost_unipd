@@ -126,6 +126,7 @@ sections:
     id: teaching
     content:
       title: Teaching
+      subtitle: <br><a href="http://physicsofdata.dfa.unipd.it/"><img src="img/logo_pod.png" alt="Physics of Data Logo" style="width:70%"></a>
       filters:
         folders:
           - teaching
