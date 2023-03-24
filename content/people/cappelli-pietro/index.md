@@ -3,7 +3,7 @@ title: Pietro Cappelli
 summary: Undergraduate student
 tags:
   - Other
-date: '2016-07-03T00:00:00Z'
+date: '2018-03-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -44,9 +44,14 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Nicolò is a Physics of Data student at the University of Padova with a background in Physics. 
-His interests mainly concern the intersection of High Energy Physics and Machine Learning. 
-Since 2021, he has been actively contributing to the development of an
-innovative data quality monitoring pipeline for the CMS drift tubes
-muon chambers using advanced machine learning techniques.
+
+Pietro Cappelli is a Physics of Data student at the University of
+Padova with a backgroud in Phyisics. Pietro's interests are primarily
+focused on Physics of High Energy and data analysis, in particular
+applied in the context of the latter Physics' field. During his period
+of study in the master degree course, he contribute to some projects
+concerning machine learning tools applied to High Energy physics. In
+the Bachelor thesis, done in Ferrara, he studied the phenomenon of
+neutrino decoupling, by computing the right hand side of the Boltzmann
+equation, with numerical integration.
 

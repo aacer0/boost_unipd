@@ -3,7 +3,7 @@ title: Sabrina Giorgetti
 summary: Ph.D. student
 tags:
   - PhD
-date: '2016-06-03T00:00:00Z'
+date: '2017-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: envelope
+  - icon: envelope2
     icon_pack: fas
     url: 'mailto:sabrina.giorgetti@studenti.unipd.it'
   #- icon: twitter

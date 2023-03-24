@@ -3,7 +3,7 @@ title: Matteo Migliorini
 summary: Ph.D. Student
 tags:
   - PhD
-date: '2023-03-13T00:00:00Z'
+date: '2017-02-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
