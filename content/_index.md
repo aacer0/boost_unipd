@@ -126,6 +126,7 @@ sections:
     id: teaching
     content:
       title: Teaching
+      subtitle: <br><a href="http://physicsofdata.dfa.unipd.it/"><img src="img/logo_pod_.png" alt="Physics of Data Logo" style="padding-left:50px; width:100%"></a>
       filters:
         folders:
           - teaching
@@ -176,9 +177,9 @@ sections:
         street: Via Francesco Marzolo 8
         postcode: 35121 Padova PD
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d700.2514157756318!2d11.885703661760342!3d45.40922537733434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda585918ab75%3A0x76d6424a9b793480!2sUniversit%C3%A0%20Degli%20Studi%20di%20Padova%20-%20Dipartimento%20di%20Fisica%20e%20Astronomia%20G.%20Galilei!5e0!3m2!1sit!2sit!4v1661268231623!5m2!1sit!2sit" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                <br><br>
-                <a href="https://www.unipd.it"><img src="img/unipd-universita-di-padova.png" alt="Logo Unipd" style="width:30%" align="left"></a>
-                <a href="http://www.dfa.unipd.it"><img src="img/logo_dfa.png" alt="Logo DFA" style="width:26.5%; padding-left:100px"></a>
+                # <br><br>
+                # <a href="https://www.unipd.it"><img src="img/unipd-universita-di-padova.png" alt="Logo Unipd" style="width:30%" align="left"></a>
+                # <a href="http://www.dfa.unipd.it"><img src="img/logo_dfa.png" alt="Logo DFA" style="width:26.5%; padding-left:100px"></a>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
