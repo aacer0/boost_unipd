@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: BOOST # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'http://boostlab.dfa.unipd.it/' # Website URL
 
 ############################
 ## LANGUAGE
