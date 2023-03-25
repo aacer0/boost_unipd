@@ -126,7 +126,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      subtitle: <br><a href="http://physicsofdata.dfa.unipd.it/"><img src="img/logo_pod.png" alt="Physics of Data Logo" style="width:70%"></a>
+      subtitle: <center><a href="http://physicsofdata.dfa.unipd.it/"><img src="img/logo_pod.png" alt="Physics of Data Logo" style="width:50%"></a></center>
       filters:
         folders:
           - teaching
@@ -170,7 +170,7 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: boostlab@dfa.unipd.it
+      email: boostlab@dfa.unipd.it #boost.unipd@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
