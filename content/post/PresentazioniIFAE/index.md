@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 
-external_link: http://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/phd-students/ 
+external_link: https://agenda.infn.it/event/34702/ 
 ---
 
 Rocco and Sabrina are presenting their results this week at the Italian conference
