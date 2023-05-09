@@ -45,6 +45,12 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Marco Zanetti is an associate professor at the Department of Physics and Astronomy at the University of Padova. He conceived and now coordinate the master program in Physics of Data.
+Marco Zanetti is an associate professor at the Department of Physics
+and Astronomy at the University of Padova. He conceived and now
+coordinates the master program in Physics of Data.
 
-A member of the CMS experiment at CERN, he participated in the discovery of the Higgs boson in 2012. Since then he is looking for Physics not explained by the Standard Model, developing technical and statistical tools allowing to reduce the bias with which novel phenomena are looked for.
+A member of the CMS experiment at CERN, he participated in the
+discovery of the Higgs boson in 2012. Since then, he has been looking
+for Physics not explained by the Standard Model, developing technical
+and statistical tools allowing to reduce the bias with which novel
+phenomena are looked for.
