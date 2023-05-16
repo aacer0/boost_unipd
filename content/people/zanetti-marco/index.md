@@ -52,5 +52,5 @@ coordinates the master program in Physics of Data.
 A member of the CMS experiment at CERN, he participated in the
 discovery of the Higgs boson in 2012. Since then, he has been looking
 for Physics not explained by the Standard Model, developing technical
-and statistical tools allowing to reduce the bias with which novel
-phenomena are looked for.
+and statistical tools allowing reducing the bias which affects the
+way novel phenomena are looked for.
