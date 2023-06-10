@@ -98,6 +98,19 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: externals
+    content:
+      title: External Collaborators
+      filters:
+        folders:
+          - external
+        exclude_featured: true
+      sort_by: 'Date'
+      sort_ascending: true 
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: publications
     content:
       title: Recent Publications
