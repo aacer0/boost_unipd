@@ -1,6 +1,6 @@
 --- 
 title: Jacopo Pazzini
-summary: Assistant Professor
+summary: Associate Professor
 tags:
   - Faculty Members
 date: '2016-02-01T00:00:00Z'
@@ -44,7 +44,7 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Jacopo Pazzini is an assistant professor at the Department of Physics and Astronomy of the University of Padova. 
+Jacopo Pazzini is an associate professor at the Department of Physics and Astronomy of the University of Padova. 
 
 As a member of the CMS experiment at CERN since 2011, he has worked on the precise measurement of fundamental physics parameters and has performed several searches for exotic and yet undetected particles and processes.
 

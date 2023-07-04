@@ -1,6 +1,6 @@
 --- 
 title: Marco Zanetti
-summary: Associated Professor
+summary:  Professor
 tags:
   - Faculty Members
 date: '2016-01-01T00:00:00Z'
@@ -45,7 +45,7 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Marco Zanetti is an associate professor at the Department of Physics
+Marco Zanetti is a full professor at the Department of Physics
 and Astronomy at the University of Padova. He conceived and now
 coordinates the master program in Physics of Data.
 
