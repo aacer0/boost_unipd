@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 
-external_link: https://agenda.infn.it/event/1255624/ 
+external_link: https://indico.cern.ch/event/1255624/ 
 ---
 
 Rocco, Matteo and Gabriele are presenting their results this week at
