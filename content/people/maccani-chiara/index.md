@@ -1,6 +1,6 @@
 --- 
 title: Chiara Maccani
-summary: Undergraduate student
+summary: PhD student
 tags:
   - Other
 date: '2018-02-01T00:00:00Z'

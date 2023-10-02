@@ -1,5 +1,5 @@
 ---
-title: Chiara, Lorenzo e Nicolo MS in Physics of Data! 
+title: Chiara, Lorenzo e Nicolo MS in Physics of Data and now PhD with our group
 subtitle: 
 
 # Summary for listings and search engines
@@ -36,4 +36,4 @@ image:
 On September  7st, Chiara, Nicolo and Lorenzo successfully discussed
 their theses and became MS in Physics of Data. All three of them were
 assigned 110/110 with honours for their study curricula and theses.
-They will start as PhD in our group starting from October 1st.
+As of October 1st they will be PhD in our group.

@@ -1,6 +1,6 @@
 --- 
 title: Nicolò Lai
-summary: Undergraduate student
+summary: PhD student
 tags:
   - Other
 date: '2018-01-01T00:00:00Z'
