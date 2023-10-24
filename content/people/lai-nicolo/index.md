@@ -2,7 +2,7 @@
 title: Nicolò Lai
 summary: PhD student
 tags:
-  - Other
+  - PhD
 date: '2018-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
