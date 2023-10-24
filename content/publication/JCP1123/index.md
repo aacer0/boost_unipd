@@ -3,8 +3,8 @@ title: 'Electron thermalization length in solid para-hydrogen at low-temperature
 authors:
 #  - Migliorini Matteo
   - Pazzini Jacopo
-  - Borghesani Francesco
-  - Carugno Gianni
+  - Borghesani Armando Francesco
+  - Carugno Giovanni
   - Messineo Giuseppe
 #  - Triossi Andrea
 #  - Zanetti Marco
@@ -25,7 +25,7 @@ publishDate: '2022-08-01'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nuclear Instruments and Method A*
+publication: In *The Journal of Chemical Physics*
 publication_short: 
 
 abstract: >
@@ -40,14 +40,12 @@ abstract: >
   
   
 # Summary. An optional shortened abstract.
-summary: "A demonstrator for a full-fledged infrastracture for
-trigger-less data acquisition and heterogeneous processing"
+summary: "Measurement of the electron thermalization length in solid para-hydrogen at 2.8 K"
 
 tags:
-  - Data Acquisition
-  - Trigger
-  - Online Data Processing
-  - High Energy Physics
+  - Electron mobility
+  - Para-Hydrogen
+  - Electric Dipole Moment 
 featured: false
 
 #links:
