@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: envelope2
+  - icon: envelope
     icon_pack: fas
     url: 'mailto:sabrina.giorgetti@studenti.unipd.it'
   #- icon: twitter

@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: envelope2
+  - icon: envelope
     icon_pack: fas
     url: 'mailto:gabriele.bortolato@studenti.unipd.it'
   #- icon: twitter
@@ -44,6 +44,5 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Gabriele is a PhD student at the University of Padua (2023-2026). As a
-member of the CMS collaboration, he does fancy things related to
-firmware programming.
+Gabriele is a PhD student at the University of Padua (2023-2026). Member of the CMS collaboration, he works on topics related to
+firmware programming, such as machine learning algorithms for the next CMS Level-1 Trigger upgrade.
