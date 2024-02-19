@@ -146,35 +146,35 @@ sections:
     design:
       columns: '2'
       view: masonry   
-  - block: portfolio
-    id: theses
-    content:
-      title: Thesis offers
-      filters:
-        folders:
-          - thesis
-        exclude_featured: true
-    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Master's Thesis
-          tag: master
-        - name: Bechelor's Thesis
-          tag: bechelor
-        #- name: Others
-        #  tag: Others
-      sort_by: 'Date'
-      sort_ascending: true    
-    design:
-      columns: '2'
-      view: list
+#  - block: portfolio
+#    id: theses
+#    content:
+#      title: Thesis offers
+#      filters:
+#        folders:
+#          - thesis
+#        exclude_featured: true
+#    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+#      default_button_index: 0
+#      # Filter toolbar (optional).
+#      # Add or remove as many filters (`filter_button` instances) as you like.
+#      # To show all items, set `tag` to "*".
+#      # To filter by a specific tag, set `tag` to an existing tag name.
+#      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Master's Thesis
+#          tag: master
+#        - name: Bechelor's Thesis
+#          tag: bechelor
+#        #- name: Others
+#        #  tag: Others
+#      sort_by: 'Date'
+#      sort_ascending: true    
+#    design:
+#      columns: '2'
+#      view: list
   - block: contact
     id: contact
     content:

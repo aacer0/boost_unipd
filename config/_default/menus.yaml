@@ -28,10 +28,10 @@ main:
     url: '#teaching'
     weight: 60
     pre: <br><br>
-  - name: Theses
-    url: '#theses'
-    weight: 70   
-    pre: <br><br>   
+  # - name: Theses
+  #   url: '#theses'
+  #   weight: 70   
+  #   pre: <br><br>   
   - name: Contact
     url: '#contact'
     weight: 80
