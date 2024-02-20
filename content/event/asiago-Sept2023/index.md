@@ -1,5 +1,5 @@
 ---
-title: 2023 Spring Workshop on Physics of Data
+title: 2023 Autumn Workshop on Physics of Data
 
 event: September Workshop on Physics of Data 2023
 event_url: https://www.aisociety-unipd.it/spring-workshop-on-physics-of-data-2023/
