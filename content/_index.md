@@ -22,7 +22,64 @@ sections:
         This is the core business of **BOOST** (Boost Online Operations with advanced Statistics and Technology).
         Our main applications are in **High Energy Physics** and **Data-Driven Medicine**.</div>
         <div style="text-align:right; font-size:xx-small">Image Credit: D. Dominguez/CERN</div>
-        
+  # - block: collection
+  #   id: research2
+  #   content:
+  #     title: Research activities
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 0
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - research
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: showcase
+  #     columns: '1'
+  - block: portfolio
+    id: research
+    content:
+      title: Research activities
+      filters:
+        folders:
+          - research
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Quantum
+          tag: Quantum
+        - name: Machine learning
+          tag: Machine learning
+        - name: Data analysis
+          tag: Data analysis
+        - name: Hardware
+          tag: Hardware
+      sort_by: 'Date'
+      sort_ascending: true
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: masonry
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 #    design:
 #      background:
 #        gradient_end: '#1976d2'
