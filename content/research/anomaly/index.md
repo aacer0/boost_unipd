@@ -1,12 +1,12 @@
 --- 
 title: Anomaly detection 
-summary: 
+summary: ' '
 tags:
   - Online processing
   - Data analysis
   - Machine learning
 date: '2016-03-01T00:00:00Z'
-
+show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 

@@ -77,7 +77,7 @@ sections:
   - block: portfolio
     id: research
     content:
-      title: Research activities
+      title: Research Activities
       filters:
         folders:
           - research
@@ -91,14 +91,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Quantum
-          tag: Quantum
-        - name: Machine learning
-          tag: Machine learning
         - name: Data analysis
           tag: Data analysis
+        - name: Machine learning
+          tag: Machine learning
         - name: Hardware
           tag: Hardware
+        - name: Quantum
+          tag: Quantum
       sort_by: 'Date'
       sort_ascending: true
     design:
