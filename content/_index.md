@@ -47,6 +47,33 @@ sections:
   #     # Choose a layout view
   #     view: showcase
   #     columns: '1'
+  - block: collection
+    id: news
+    content:
+      title: Latest News
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   - block: portfolio
     id: research
     content:
@@ -79,39 +106,7 @@ sections:
       columns: '1'
       view: masonry
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-#    design:
-#      background:
-#        gradient_end: '#1976d2'
-#        gradient_start: '#004ba0'
-#        text_color_light: true
-  - block: collection
-    id: news
-    content:
-      title: Latest News
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+      flip_alt_rows: true
   - block: portfolio
     id: people
     content:

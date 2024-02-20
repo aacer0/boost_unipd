@@ -33,7 +33,7 @@ image:
 #external_link: https://cds.cern.ch/record/2860136?ln=en
 ---
 
-On September  7st, Chiara, Nicolo and Lorenzo successfully discussed
+On September  7th, Chiara, Nicolo and Lorenzo successfully discussed
 their theses and became MS in Physics of Data. All three of them were
 assigned 110/110 with honours for their study curricula and theses.
 As of October 1st they will be PhD in our group.
