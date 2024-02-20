@@ -8,12 +8,12 @@ main:
     url: '#about'
     weight: 10
     pre: <br><br>
-  - name: Research
-    url: '#research'
-    weight: 20
-    pre: <br><br>
   - name: News
     url: '#news'
+    weight: 20
+    pre: <br><br>
+  - name: Research
+    url: '#research'
     weight: 30
     pre: <br><br>
   - name: People
