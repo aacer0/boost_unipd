@@ -1,12 +1,13 @@
 --- 
 title: Quantum-inspired machine learning
-summary: 
+summary: ' '
 tags:
   - Data analysis
   - Machine learning
   - Quantum 
 date: '2016-03-01T00:00:00Z'
-
+show_date: false
+show_links: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
@@ -34,8 +35,6 @@ image:
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''
-
-
 ---
 
 Quantum-inspired algorithms are an exciting alternative option for computational

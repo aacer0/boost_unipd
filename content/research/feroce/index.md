@@ -1,10 +1,10 @@
 --- 
 title: Fast data transmission protocol on FPGA
-summary: 
+summary: ' '
 tags:
   - Hardware
 date: '2016-03-01T00:00:00Z'
-
+show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
