@@ -38,4 +38,10 @@ image:
 
 ---
 
-Summary of the activity
+Quantum-inspired algorithms are an exciting alternative option for computational
+tasks usually addressed by standard machine learning techniques. In
+our group we focus on the development of Tree Tensor Networks for HEP
+applications, specifically to enhance the capabilities of online
+data processing systems like those exploited at the first trigger
+levels of collider experiments. The main goal is to implement tensor
+network models and state-vector simulators on FPGA.
