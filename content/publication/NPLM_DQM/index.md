@@ -1,6 +1,14 @@
 ---
 title: Fast kernel methods for Data Quality Monitoring as a goodness-of-fit test'
-#authors:
+authors:
+ - Grosso Gaia
+ - Lai Nicolò
+ - Letizia Marco
+ - Pazzini Jacopo
+ - Rando Marco
+ - Rosasco Lorenzo
+ - Wulzer Andrea
+ - Zanetti Marco
 #  - Migliorini Matteo
 #  - Pazzini Jacopo
 #  - Lai Nicolo 

@@ -1,11 +1,11 @@
 ---
 title: 'Muon trigger with fast Neural Networks on FPGA, a demonstrator'
-#authors:
-#  - Migliorini Matteo
-#  - Pazzini Jacopo
-#  - Triossi Andrea
-#  - Zanetti Marco
-#  - Zucchetta Alberto
+authors:
+ - Migliorini Matteo
+ - Pazzini Jacopo
+ - Triossi Andrea
+ - Zanetti Marco
+ - Zucchetta Alberto
 #author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'

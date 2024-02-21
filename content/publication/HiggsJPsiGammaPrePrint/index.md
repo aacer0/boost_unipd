@@ -24,7 +24,7 @@ publishDate: '2023-12-12'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Journal of Chemical Physics*
+publication: 
 publication_short: 
 
 abstract: >
