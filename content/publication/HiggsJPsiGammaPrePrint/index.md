@@ -1,6 +1,6 @@
 ---
 title: "Search for the rare decays of the Z and Higgs bosons to a
-J/Psi meson and a photon in proton-proton collisions at sqrt(s)=13 TeV"
+J/ψ meson and a photon in proton-proton collisions at sqrt(s)=13 TeV"
 
 authors:
 #  - Migliorini Matteo
@@ -24,7 +24,7 @@ publishDate: '2023-12-12'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Journal of Chemical Physics*
+publication: 
 publication_short: 
 
 abstract: >

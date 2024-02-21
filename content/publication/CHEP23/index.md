@@ -1,11 +1,13 @@
 ---
 title: 'Triggerless data acquisition pipeline for Machine Learning based stastistical anomaly detection'
-#authors:
-#  - Migliorini Matteo
-#  - Pazzini Jacopo
-#  - Triossi Andrea
-#  - Zanetti Marco
-#  - Zucchetta Alberto
+authors:
+ - Grosso Gaia
+ - Lai Nicolò
+ - Migliorini Matteo
+ - Pazzini Jacopo
+ - Triossi Andrea
+ - Zanetti Marco
+ - Zucchetta Alberto
 #author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'

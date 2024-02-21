@@ -149,19 +149,26 @@ sections:
 #    design:
 #      columns: '2'
 #      view: card
-  - block: collection
+  # - block: collection
+  #   id: externals
+  #   content:
+  #     title: External Collaborators
+  #     filters:
+  #       folders:
+  #         - external
+  #       exclude_featured: true
+  #     sort_by: 'Title'
+  #     sort_ascending: true 
+  #   design:
+  #     columns: '2'
+  #     view: list
+  - block: markdown
     id: externals
     content:
       title: External Collaborators
-      filters:
-        folders:
-          - external
-        exclude_featured: true
-      sort_by: 'Date'
-      sort_ascending: true 
+      text: <a href="mailto:emilio.meschi@cern.ch"><b>Emilio Meschi</b></a> - <a href="http://meschi.web.cern.ch/meschi/"><i>Principal Applied Physicist at CERN</i></a><br>       <a href="mailto:raffaele-tito.dagnolo@ipht.fr"><b>Raffaele Tito D'Agnolo</b></a> - <a href="https://www.ipht.fr/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=865"><i>IPhT, Centre CEA de Saclay</i></a><br> <a href="mailto:gaiag795@mit.edu"><b>Gaia Grosso</b></a> - <a href="https://iaifi.org/current-fellows.html"><i>Fellow at IAIFI, MIT</i></a><br> <a href="mailto:maurizio.pierini@cern.ch"><b>Maurizio Pierini</b></a> - <a href="https://twitter.com/xmpierinix"><i>Senior Research staff at CERN</i></a><br> <a href="mailto:lorenzo.rosasco@unige.it"><b>Lorenzo Rosasco</b></a> - <a href="https://rubrica.unige.it/personale/UkNHXVxs"><i>Full Professor at Univeristy of Genova (MALGA)</i></a><br> <a href="mailto:wulzer@ifae.es"><b>Andrea Wulzer</b></a> - <a href="https://www.icrea.cat/Web/ScientificStaff/andrea-wulzer-380491"><i>ICREA Research Professor at Institut de Física d'Altes Energies (IFAE)</i></a><br>
     design:
       columns: '2'
-      view: compact
   - block: collection
     id: publications
     content:

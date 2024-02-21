@@ -38,17 +38,4 @@ image:
 
 ---
 
-One can thing that the core of the scientific method, i.e. checking
-whether a given hypothesis is compatible with the measurements, is a
-straightforward operation. That is very far from being true, it is in
-fact one of the hardest problem in data analysis. HEP experiments
-typically compare two hypotheses, the Standard Model and an
-alternative physics model extending the latter. What if one wants to
-be sensitive to phenomena not described by the SM without formulating
-an explicit alternative model? That is what New Physics Machine
-Learning (NPLM) does, an powerful and statistically sound method to detect
-anomalies in the data, i.e. features departing from the expectaion.
-NPLM can be applied in HEP experiments as well as in other domains.
-Our group is the main contributor to the project and after several
-years of development and tests, we are putting it in production,
-specifically using it as alternative test statistics for CMS analyses.
+One can think that the core of the scientific method, i.e. checking whether a given hypothesis is compatible with the measurements, is a straightforward operation. That is very far from being true, it is in fact one of the hardest problems in data analysis. HEP experiments typically compare two hypotheses, the Standard Model and an alternative physics model extending the latter. What if one wants to be sensitive to phenomena not described by the SM without formulating an explicit alternative model? That is what New Physics Machine Learning (NPLM) does, a powerful and statistically sound method to detect anomalies in the data, i.e. features departing from the expectation. NPLM can be applied in HEP experiments as well as in other domains. Our group is the main contributor to the project and after several years of development and tests, we are putting it in production, specifically using it as alternative test statistics for CMS analyses.

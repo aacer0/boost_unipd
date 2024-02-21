@@ -1,10 +1,10 @@
 ---
 title: 'Machine Learning Pipelines with Modern Big Data Tools for High Energy Physics'
 authors:
-#  - Migliorini Matteo
-#  - Canali Luca
-#  - Castellotti Riccardo
-#  - Zanetti Marco
+ - Migliorini Matteo
+ - Canali Luca
+ - Castellotti Riccardo
+ - Zanetti Marco
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'

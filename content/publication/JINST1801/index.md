@@ -1,11 +1,11 @@
 ---
 title: 'Trigger-less readout and unbiased data quality monitoring of the CMS drift tubes muon detector'
-#authors:
-#  - Migliorini Matteo
-#  - Pazzini Jacopo
-#  - Triossi Andrea
-#  - Zanetti Marco
-#  - Zucchetta Alberto
+authors:
+ - Migliorini Matteo  
+ - Pazzini Jacopo
+ - Triossi Andrea
+ - Zanetti Marco
+ - Zucchetta Alberto
 #author_notes:
 #  - 'Equal contribution'
 # - 'Equal contribution'

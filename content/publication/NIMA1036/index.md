@@ -1,11 +1,11 @@
 ---
 title: 'A horizontally scalable online processing system for trigger-less data acquisition'
 authors:
-#  - Migliorini Matteo
-#  - Pazzini Jacopo
-#  - Triossi Andrea
-#  - Zanetti Marco
-#  - Zucchetta Alberto
+ - Migliorini Matteo
+ - Pazzini Jacopo
+ - Triossi Andrea
+ - Zanetti Marco
+ - Zucchetta Alberto
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
