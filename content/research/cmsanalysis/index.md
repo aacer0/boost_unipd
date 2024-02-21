@@ -37,15 +37,4 @@ image:
 
 ---
 
-The physics program of the CMS experiment is rich and includes in
-particular the precise assesment of the properties of the Higgs
-boson. Our group has an history of succesfull analyses concerning New
-Physics searches and rare Higgs decays like the one to a photon and
-pair of muons stemming from a J/psi. 
-Some of measurements cannot however be tackled in the standard
-way as the corresponding final state are too common and an unprescaled trigger
-is very hard to be put in production. We plan to leverage on the L1
-Scouting infrastructure to pursue the such challenging analyses;
-examples of these are the decay of the Higgs into four charged kaons
-via a pair of phi mesons and the decay of the W boson into three
-charged pions.
+The physics program of the CMS experiment is rich and includes in particular the precise assessment of the properties of the Higgs boson. Our group has a history of successful analyses concerning New Physics searches and rare Higgs decays like the one to a photon and pair of muons stemming from a J/psi. Some of the measurements cannot however be tackled in the standard way as the corresponding final states are too common and an unprescaled trigger is very hard to be put in production. We plan to leverage on the L1 Scouting infrastructure to pursue such challenging analyses; examples of these are the decay of the Higgs into four charged kaons via a pair of phi mesons and the decay of the W boson into three charged pions.
