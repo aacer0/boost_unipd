@@ -30,7 +30,7 @@ image:
   preview_only: false
 
 
-external_link: https://iaifi.org/current-fellows.html
+external_link: https://nextgentriggers.web.cern.ch
 ---
 
 Matteo as a Fellow and Sabrina as a Doctoral Student are joning CERN

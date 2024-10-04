@@ -1,6 +1,5 @@
 ---
-title: Pre-print on FPGA implementation of Quantum-inspired ML algorithms is out!
-
+title: Nicolo' wins best thesis prize
 subtitle: 
 
 # Summary for listings and search engines
@@ -11,7 +10,7 @@ summary:
 projects: []
 
 # Date published
-date: '2024-09-25T00:00:00Z'
+date: '2024-10-02T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
@@ -31,9 +30,13 @@ image:
   preview_only: false
 
 
-external_link: http://arxiv.org/abs/2409.16075
+external_link: https://www.dfa.unipd.it/index.php?id=1348
 ---
 
-We developed for the first time an FPGA implementation of
-quantum-inspired ML model, a Tree Tensor Network tuned to classify
-properties of collision events at LHC. Such development will allow the deployment of such complex methods into the online system of the experiments.
+Nicolo' has been awarded the price for the best master thesis of
+Physics of Data. In the context of the academic year inaguration
+ceremony, Nicolo' received his price from the
+Director of the Physics Department and the pro-rector for education of
+the University of Padova. 
+
+
