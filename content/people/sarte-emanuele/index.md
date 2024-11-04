@@ -1,9 +1,9 @@
 --- 
-title: Alberto Coppi
-summary: PhD student (collaborator)
+title: Emanuele Sarte
+summary: Undergraduate student
 tags:
   - Other
-date: '2024-12-12T00:00:00Z'
+date: '2024-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:alberto.coppi@studenti.unipd.it'
+    url: 'mailto:emanuele.sarte@studenti.unipd.it'
   #- icon: twitter
   #  icon_pack: fab
   #  url: 
@@ -24,7 +24,7 @@ links:
   #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    url: https://github.com/c0pp1
+    url: https://github.com/EmanueleSarte
   #- icon: google-scholar
   #  icon_pack: ai
   #  url: https://scholar.google.com/citations?user=hSk0b3oAAAAJ&hl=it
@@ -44,5 +44,4 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Alberto Coppi is a MSc student in Physics of Data, currently working on his thesis, focused on the development and optimization of quantum machine learning algorithms, more specifically involving the application of Tree Tensor Networks on computing accelerators such as GPGPUs and FPGAs. Alberto is undergoing an internship period in Tensor AI Solutions under the supervision of Marco Trenti and Timo Felsner.
-
+Emanuele is a Physics of Data student at the University of Padova, with a background in Physics and Computer Science. He is currently working on his thesis at CERN, developing firmware to monitor the CMS Data Acquisition readout cards on FPGAs.

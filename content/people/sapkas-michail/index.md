@@ -1,9 +1,9 @@
 --- 
-title: Alberto Coppi
-summary: PhD student (collaborator)
+title: Michail Sapkas
+summary: Ph.D. student
 tags:
-  - Other
-date: '2024-12-12T00:00:00Z'
+  - PhD
+date: '2024-01-04T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:alberto.coppi@studenti.unipd.it'
+    url: 'mailto:michail.sapkas@studenti.unipd.it'
   #- icon: twitter
   #  icon_pack: fab
   #  url: 
@@ -24,7 +24,7 @@ links:
   #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    url: https://github.com/c0pp1
+    url: https://github.com/Gabriele-bot
   #- icon: google-scholar
   #  icon_pack: ai
   #  url: https://scholar.google.com/citations?user=hSk0b3oAAAAJ&hl=it
@@ -44,5 +44,7 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Alberto Coppi is a MSc student in Physics of Data, currently working on his thesis, focused on the development and optimization of quantum machine learning algorithms, more specifically involving the application of Tree Tensor Networks on computing accelerators such as GPGPUs and FPGAs. Alberto is undergoing an internship period in Tensor AI Solutions under the supervision of Marco Trenti and Timo Felsner.
-
+Michail is PhD student at the University of Padua enrolled in the INFN
+Doctoral program. As a member of the CMS collaboration, he works on
+the R&D of digital hardware suited for AI tasks and related
+applications for online data processing and analysis

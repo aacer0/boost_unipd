@@ -1,9 +1,9 @@
 --- 
 title: Alberto Zucchetta
-summary: INFN researcher
+summary: INFN first researcher
 tags:
   - Faculty Members
-date: '2016-04-01T00:00:00Z'
+date: '2016-04-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -1,9 +1,9 @@
 --- 
-title: Alberto Coppi
-summary: PhD student (collaborator)
+title: Giovanni Zago
+summary: Undergraduate student
 tags:
   - Other
-date: '2024-12-12T00:00:00Z'
+date: '2024-09-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:alberto.coppi@studenti.unipd.it'
+    url: 'mailto:giovanni.zago@studenti.unipd.it'
   #- icon: twitter
   #  icon_pack: fab
   #  url: 
@@ -44,5 +44,5 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Alberto Coppi is a MSc student in Physics of Data, currently working on his thesis, focused on the development and optimization of quantum machine learning algorithms, more specifically involving the application of Tree Tensor Networks on computing accelerators such as GPGPUs and FPGAs. Alberto is undergoing an internship period in Tensor AI Solutions under the supervision of Marco Trenti and Timo Felsner.
+Giovanni is a Physics of Data student currently working on his Master's Degree final thesis, which consists in developing software and hardware solutions for Level 1 Trigger Scouting at the CMS Experiment, in the context of the broader Next Generation Triggers Project. His primary interests are Scientific Computing and Hardware for Experimental Physics.
 

@@ -1,6 +1,6 @@
 --- 
 title: Andrea Triossi
-summary: Assistant Professor
+summary: Associate Professor
 tags:
   - Faculty Members
 date: '2016-03-01T00:00:00Z'
