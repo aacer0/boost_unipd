@@ -1,8 +1,8 @@
 ---
-title: Management and Analysis of Physics Dataset - Mod B
+title: Modern Computing for Physics
 
-event: Management and Analysis of Physics Dataset - Mod B
-external_link: https://en.didattica.unipd.it/off/2024/LM/SC/SC2443/000ZZ/SCP8082535/N0
+event: Modern Computing for Physics
+external_link: https://en.didattica.unipd.it/off/2023/LM/SC/SC2443/000ZZ/SCQ3104440/N0
 
 #location: Master in Physics of Data, University of Padova
 #address:
@@ -22,7 +22,7 @@ summary: Master in Physics of Data, University of Padova
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 'https://en.didattica.unipd.it/off/2024/LM/SC/SC2443/000ZZ/SCP8082535/N0'
+publishDate: 'https://en.didattica.unipd.it/off/2023/LM/SC/SC2443/000ZZ/SCQ3104440/N0'
 
 authors: []
 tags: []
