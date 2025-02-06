@@ -15,19 +15,16 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:michail.sapkas@studenti.unipd.it'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  url: 
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    url: 'mailto:michail.sapkas@phd.unipd.it'
+  - icon: linkedin
+    icon_pack: fab
+    url: https://www.linkedin.com/in//michail-sapkas-270006223
+  - icon: facebook
+    icon_pack: fab
+    url: https://www.facebook.com/michail.sapkas/
   - icon: github
     icon_pack: fab
-    url: https://github.com/Gabriele-bot
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  url: https://scholar.google.com/citations?user=hSk0b3oAAAAJ&hl=it
+    url: https://github.com/Msapkas
 url_code: ''
 url_pdf: ''
 url_slides: ''
