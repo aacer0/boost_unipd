@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:giovanni.zago@studenti.unipd.it'
+    url: 'mailto:giovanni.zago@cern.ch'
   #- icon: twitter
   #  icon_pack: fab
   #  url: 
@@ -44,5 +44,10 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Giovanni is a Physics of Data student currently working on his Master's Degree final thesis, which consists in developing software and hardware solutions for Level 1 Trigger Scouting at the CMS Experiment, in the context of the broader Next Generation Triggers Project. His primary interests are Scientific Computing and Hardware for Experimental Physics.
+Giovanni is a former Physics of Data student currently a PhD student
+at University of Padova and resident at CERN with a Doctor Student
+contract. He focuses on the development of software and hardware
+solutions for  Level 1 Trigger Scouting at the CMS Experiment, in the
+context of the  broader Next Generation Triggers Project. His primary
+interests are  Scientific Computing and Hardware for Experimental Physics.
 
