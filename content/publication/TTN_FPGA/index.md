@@ -13,7 +13,7 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 date: '2024-09-25'
-doi: '10.48550/arXiv.2409.16075'
+doi: '10.1088/2632-2153/ae25b5'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2022-08-01'
@@ -25,7 +25,7 @@ doi: '10.48550/arXiv.2409.16075'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Nuclear Instruments and Method A*
+publication: In *Machine Learning Science and Technology*
 #publication_short: 
 
 abstract: >
@@ -48,7 +48,7 @@ featured: false
 #links:
 #  - name: Custom Link
 #    url: http://example.org
-url_pdf: https://arxiv.org/pdf/2409.16075
+url_pdf: https://iopscience.iop.org/article/10.1088/2632-2153/ae25b5
 url_code:
 url_dataset:
 url_poster: 

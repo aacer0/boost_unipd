@@ -1,5 +1,5 @@
 --- 
-title: Emanuele Sarte
+title: Laura Ravagnani
 summary: Undergraduate student
 tags:
   - Other
@@ -15,7 +15,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fas
-    url: 'mailto:emanuele.sarte@studenti.unipd.it'
+    url: 'mailto:laura.ravagnani@cern.ch'
   #- icon: twitter
   #  icon_pack: fab
   #  url: 
@@ -24,7 +24,7 @@ links:
   #  url: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    url: https://github.com/EmanueleSarte
+    url: https://github.com/LauraRavagnani
   #- icon: google-scholar
   #  icon_pack: ai
   #  url: https://scholar.google.com/citations?user=hSk0b3oAAAAJ&hl=it
@@ -44,4 +44,6 @@ url_video: ''
 #external_link: https://example.org
 ---
 
-Emanuele is a Physics of Data student at the University of Padova, with a background in Physics and Computer Science. He is currently working on his thesis at CERN, developing firmware to monitor the CMS Data Acquisition readout cards on FPGAs.
+Laura is a Physics of Data student at the University of Padova, with a
+background in Physics and Computer Science. She is currently working
+on her thesis at CERN, developing and deploying the firmware to monitor the CMS Data Acquisition readout cards on FPGAs.
