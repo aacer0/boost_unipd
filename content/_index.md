@@ -168,13 +168,14 @@ sections:
     id: externals
     content:
       title: External Collaborators
-      text: <a href="mailto:emilio.meschi@cern.ch"><b>Emilio Meschi</b></a> - <a href="http://meschi.web.cern.ch/meschi/"><i>Principal Applied Physicist at CERN</i></a><br>       <a href="mailto:raffaele-tito.dagnolo@ipht.fr"><b>Raffaele Tito D'Agnolo</b></a> - <a href="https://www.ipht.fr/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=865"><i>IPhT, Centre CEA de Saclay</i></a><br> <a href="mailto:gaiag795@mit.edu"><b>Gaia Grosso</b></a> - <a href="https://iaifi.org/current-fellows.html"><i>Fellow at IAIFI, MIT</i></a><br> <a href="mailto:maurizio.pierini@cern.ch"><b>Maurizio Pierini</b></a> - <a href="https://twitter.com/xmpierinix"><i>Senior Research staff at CERN</i></a><br> <a href="mailto:lorenzo.rosasco@unige.it"><b>Lorenzo Rosasco</b></a> - <a href="https://rubrica.unige.it/personale/UkNHXVxs"><i>Full Professor at Univeristy of Genova (MALGA)</i></a><br> <a href="mailto:wulzer@ifae.es"><b>Andrea Wulzer</b></a> - <a href="https://www.icrea.cat/Web/ScientificStaff/andrea-wulzer-380491"><i>ICREA Research Professor at Institut de Física d'Altes Energies (IFAE)</i></a><br>
+      text: <a href="mailto:emilio.meschi@cern.ch"><b>Emilio Meschi</b></a> - <a href="http://meschi.web.cern.ch/meschi/"><i>Principal Applied Physicist at CERN</i></a><br>       <a href="mailto:raffaele-tito.dagnolo@ipht.fr"><b>Raffaele Tito D'Agnolo</b></a> - <a href="https://www.ipht.fr/Phocea/Vie_des_labos/Ast/ast_visu.php?id_ast=865"><i>IPhT, Centre CEA de Saclay</i></a><br>  <a href="mailto:maurizio.pierini@cern.ch"><b>Maurizio Pierini</b></a> - <a href="https://twitter.com/xmpierinix"><i>Senior Research staff at CERN</i></a><br> <a href="mailto:lorenzo.rosasco@unige.it"><b>Lorenzo Rosasco</b></a> - <a href="https://rubrica.unige.it/personale/UkNHXVxs"><i>Full Professor at Univeristy of Genova (MALGA)</i></a><br> <a href="mailto:christoph.schwicki@cern.ch"><b>Christoph Schwick</b></a> - <a href="http://schwick.web.cern.ch/schwick/"><i>Principal Applied Physicist at CERN</i></a><br><a href="mailto:wulzer@ifae.es"><b>Andrea Wulzer</b></a> - <a href="https://www.icrea.cat/Web/ScientificStaff/andrea-wulzer-380491"><i>ICREA Research Professor at Institut de Física d'Altes Energies (IFAE)</i></a><br>
     design:
       columns: '2'
   - block: markdown
     id: alumni
     content:
       title: Alumni
+      text: <a href="mailto:gaiag795@mit.edu"><b>Gaia Grosso</b></a> - <a href="https://iaifi.org/current-fellows.html"><i>Fellow at IAIFI, MIT and Harvard</i></a><br> <a href="mailto:matteo.migliorini@cern.ch"><b>Matteo Migliorini</b></a> - <a href="https://github.com/Mmiglio"><i>CERN Fellow</i></a><br> <a href="mailto:rocco.ardino@cern.ch"><b>Rocco Ardino</b></a> - <a href="https://github.com/RoccoA97"><i>CERN Fellow</i></a><br> <a href="mailto:gabriele.bortolato@cern.ch"><b>Gabriele Bortolato</b></a> - <a href="https://github.com/Gabriele-bot"><i>CERN Fellow</i></a><br>
     design:
       columns: '2'
   - block: collection

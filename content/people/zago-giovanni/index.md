@@ -1,8 +1,8 @@
 --- 
 title: Giovanni Zago
-summary: Undergraduate student
+summary: Ph.D. Student
 tags:
-  - Other
+  - PhD
 date: '2024-09-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
