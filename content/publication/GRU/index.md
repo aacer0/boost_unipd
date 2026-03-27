@@ -6,7 +6,7 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 date: '2025-11-20'
-doi: ' doi.org/10.48550/arXiv.2511.15626'
+doi: '10.1088/1748-0221/21/03/C03015 '
 
 
 
@@ -17,10 +17,10 @@ doi: ' doi.org/10.48550/arXiv.2511.15626'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Nuclear Instruments and Method A*
+publication: In *Journal of Instrumentation*
 #publication_short: 
 
 abstract: >
@@ -39,7 +39,7 @@ featured: false
 #links:
 #  - name: Custom Link
 #    url: http://example.org
-url_pdf: https://arxiv.org/abs/2511.15626
+url_pdf: https://iopscience.iop.org/article/10.1088/1748-0221/21/03/C03015
 url_code:
 url_dataset:
 url_poster: 
