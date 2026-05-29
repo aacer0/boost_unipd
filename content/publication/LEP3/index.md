@@ -6,7 +6,7 @@ authors:
 #  - 'Equal contribution'
 # - 'Equal contribution'
 date: '2025-04-01'
-doi: 'doi.org/10.48550/arXiv.2504.00541'
+doi: '10.1088/1361-6471/ae5728'
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: '2022-08-01'
@@ -15,7 +15,7 @@ doi: 'doi.org/10.48550/arXiv.2504.00541'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Nuclear Instruments and Method A*
@@ -36,7 +36,7 @@ featured: false
 #links:
 #  - name: Custom Link
 #    url: http://example.org
-url_pdf: https://inspirehep.net/literature/2906637
+url_pdf: https://iopscience.iop.org/article/10.1088/1361-6471/ae5728
 url_code:
 url_dataset:
 url_poster: 
